@@ -1,6 +1,6 @@
 # Marouan Boumchahate
 
-**Full-Stack Software Engineer, Backend-Focused | System Design, API Design, Reliability**
+**Full-Stack Software Engineer, Backend-Focused | System Design, API Design, Reliability** <br>
 Istanbul, Türkiye · Open to remote roles worldwide
 
 I build full-stack systems from A to Z: database schema, APIs, web or mobile client, testing and deployment. My strongest focus is the backend and how it behaves under load and failure: concurrency, query performance and reliability. BSc in Computer Engineering from Fenerbahçe University (GPA 3.90/4.00, ranked 1st in the Faculty of Engineering & Architecture).
