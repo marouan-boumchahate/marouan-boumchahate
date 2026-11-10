@@ -1,22 +1,42 @@
-# 💫 About Me:
-🔭 I’m currently working on a media sports project.<br>🤝 I’m looking to collaborate with someone skilled in backend development to build a robust API application.<br>🤝 I’m looking for help with finding an internship or job.<br>🌱 I’m currently learning FastAPI.<br>💬 I'm open to your questions.<br>⚡ Energy = Milk . Coffee^2
+# Marouan Boumchahate
 
+**Full-Stack Software Engineer, Backend-Focused | System Design, API Design, Reliability**
+Istanbul, Türkiye · Open to remote roles worldwide
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maroua___n__)         [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marouan-boumchahate-843543249/)
+I build full-stack systems from A to Z: database schema, APIs, web or mobile client, testing and deployment. My strongest focus is the backend and how it behaves under load and failure: concurrency, query performance and reliability. BSc in Computer Engineering from Fenerbahçe University (GPA 3.90/4.00, ranked 1st in the Faculty of Engineering & Architecture).
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marouan-boumchahate&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=marouan-boumchahate&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marouan-boumchahate&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-It's not a bug, it's an undocumented feature.
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marouan-boumchahate&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[Portfolio](https://www.marouan.me/) · [LinkedIn](https://www.linkedin.com/in/marouan-boumchahate/) · [Email](mailto:marouanboumchahate@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=marouan-boumchahate&icon=5&color=3)](https://visitcount.itsvg.in)
+
+## Engineering focus
+
+- **End-to-end delivery:** designing, building and deploying a full product alone or in a team, from PostgreSQL and Redis through Node.js and .NET APIs to React and React Native clients, shipped with Docker.
+- **System design and trade-offs:** splitting data between PostgreSQL and on-chain storage in S2dent to cut gas cost by 30%.
+- **APIs and data:** 30+ endpoints in HouseHub with JWT, refresh tokens and RBAC; normalized schemas and zero-downtime migrations with Alembic.
+- **Concurrency and reliability:** retry logic with exponential backoff, jitter and nested SQL savepoints in an open-source storage engine.
+- **Performance:** composite indexes and cursor pagination that cut search latency by 45% across 50,000+ records.
+- **Testing:** unit and integration suites with xUnit and pytest, including regression tests for multi-threaded race conditions.
+- **Shipping:** Docker and Docker Compose, CI/CD with GitHub Actions, deployment to an Ubuntu VPS.
+
+## Selected work
+
+| Project | What it is | Engineering highlights |
+| :--- | :--- | :--- |
+| [**Kinto** (pull request #3790)](https://github.com/Kinto/kinto/pull/3790) | Open-source storage engine, contribution | Fixed a timestamp collision flaw in concurrent writes without breaking API contracts. 96% fewer write failures, p95 latency from 80ms to 33ms. |
+| [**S2dent**](https://github.com/marouan-boumchahate/S2dent) | Academic credential platform (React, Node.js, PostgreSQL, Redis, Solidity) | Built end to end in a team of three, as core backend engineer, and deployed with Docker on an Ubuntu VPS. 35+ endpoints, 12+ tables, Redis worker queue that cut API latency by 23%. |
+| [**HouseHub**](https://github.com/marouan-boumchahate/Househub) | Housing and roommate platform backend (.NET 8, PostgreSQL, Redis) | Clean Architecture, JWT and RBAC, OTP flow with Redis key expiration, xUnit test suite. |
+| [**ToDo-FastAPI**](https://github.com/marouan-boumchahate/ToDo-FastAPI) | Async task microservice (FastAPI, PostgreSQL, Docker) | Alembic migrations, JWT OAuth2, pytest and pytest-asyncio coverage. |
+
+## Experience
+
+**Software Development Intern, Scramblebit** · Jul 2025 to Aug 2025
+Built 23+ REST APIs in Laravel for e-commerce and POS workflows. Cut peak transaction failures by 28% with server-side validation and transactional integrity, and cut reporting query latency by 38% with composite indexes and eager loading.
+
+## Stack
+
+C#, .NET, TypeScript, Node.js, Python, FastAPI, PostgreSQL, SQL Server, MySQL, Redis, Docker, GitHub Actions, React, React Native
+
+## Contact
+
+Email: marouanboumchahate@gmail.com · Portfolio: [marouan.me](https://www.marouan.me/)
