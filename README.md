@@ -26,7 +26,7 @@ I build full-stack systems from A to Z: database schema, APIs, web or mobile cli
 | [**Kinto** (pull request #3790)](https://github.com/Kinto/kinto/pull/3790) | Open-source storage engine, contribution | Fixed a timestamp collision flaw in concurrent writes without breaking API contracts. 96% fewer write failures, p95 latency from 80ms to 33ms. |
 | [**S2dent**](https://github.com/marouan-boumchahate/S2dent) | Academic credential platform (React, Node.js, PostgreSQL, Redis, Solidity) | Built end to end in a team of three, as core backend engineer, and deployed with Docker on an Ubuntu VPS. 35+ endpoints, 12+ tables, Redis worker queue that cut API latency by 23%. |
 | [**HouseHub**](https://github.com/marouan-boumchahate/Househub) | Housing and roommate platform backend (.NET 8, PostgreSQL, Redis) | Clean Architecture, JWT and RBAC, OTP flow with Redis key expiration, xUnit test suite. |
-| [**ToDo-FastAPI**](https://github.com/marouan-boumchahate/ToDo-FastAPI) | Async task microservice (FastAPI, PostgreSQL, Docker) | Alembic migrations, JWT OAuth2, pytest and pytest-asyncio coverage. |
+| [**LoQ**](https://loqq.duckdns.org) | Mobile security vault (React Native, Expo, TypeScript) | MVVM and Clean Architecture, Zustand state, encrypted AsyncStorage persistence, EAS Build with SHA-256 checksums. |
 
 ## Experience
 
